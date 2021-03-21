@@ -19,5 +19,3 @@
 - Check all links
 
 - Fix meta data
-
-- Maybe make background image brighter
