@@ -10,6 +10,8 @@
 
 - Make All ADS publications button green to gray
 
+- Make authors white
+
 - Make the service icons better resolution
 
 - What to do with Contact Me and social media: keep only github, comment out twitter
